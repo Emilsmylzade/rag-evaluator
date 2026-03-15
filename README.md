@@ -2,9 +2,9 @@
  
 A evaluation framework for RAG pipelines that measures both **retrieval quality** and **answer accuracy** — because if you're building RAG without evals, you're mostly guessing.
  
-![Answer Evaluation](answer_evaluation.png)
+![Answer Evaluation]([answer_evaluation.png](https://github.com/Emilsmylzade/rag-evaluator/blob/main/Screenshot%202026-03-15%20at%2011.51.02.png))
  
-![Retrieval Evaluation](Screenshot)
+![Retrieval Evaluation]([Screenshot](https://github.com/Emilsmylzade/rag-evaluator/blob/main/Screenshot%202026-03-15%20at%2011.56.14.png))
  
 For the full breakdown of the methodology, metrics, and lessons learned, read the blog post:
  
